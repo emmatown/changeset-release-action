@@ -1,0 +1,7 @@
+{
+  "name": "changeset-release-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mitchellhamilton <mitchell@hamil.town>",
+  "license": "MIT"
+}
